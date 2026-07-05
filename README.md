@@ -1,10 +1,23 @@
+<div align="center">
+  
+<img width="1920" height="1080" alt="SLM" src="https://github.com/user-attachments/assets/d2b795f5-54da-4929-a577-53187ea4999b" />
+
+<p>
+  <a href="https://github.com/BMProjects-Development/Sacred-Logistics-Tweaks/commits/"><img src="https://img.shields.io/github/commit-activity/t/BMProjects-Development/Sacred-Logistics-Tweaks?style=for-the-badge&labelColor=4682B4&color=000080" alt="Stars"></a>
+  <a href="https://github.com/BMProjects-Development/Sacred-Logistics-Tweaks/stargazers"><img src="https://img.shields.io/github/stars/BMProjects-Development/Sacred-Logistics-Tweaks.svg?style=for-the-badge&labelColor=4682B4&color=000080" alt="Stars"></a>
+  <a href="https://github.com/BMProjects-Development/Sacred-Logistics-Tweaks/graphs/contributors"><img src="https://img.shields.io/github/contributors/BMProjects-Development/Sacred-Logistics-Tweaks.svg?style=for-the-badge&labelColor=4682B4&color=000080" alt="Contributors"></a>
+  <a href="https://discord.gg/9GWKBVw3Ty"><img src="https://img.shields.io/discord/1087416155934834748?style=for-the-badge&label=Discord&logo=discord&logoColor=d9e0ee&labelColor=4682B4&color=000080" alt="Discord"></a>
+</p>
+
+</div>
+
 # Sacred Logistics Tweaks (Forge 1.19.2)
 
 **Sacred Logistics Tweaks** is a core gameplay extension and balancing mod specifically designed for the **Sacred Logistics** modpack. It introduces unique hardcore survival mechanics, custom world generation, and tight integration between popular exploration mods to deliver a highly immersive and challenging experience.
 
 ---
 
-## Custom Mechanics & Challenges
+# Custom Mechanics & Challenges
 
 ### The Meteorite Hazard
 * **Impending Doom:** Every 10 in-game days, a meteorite will target and crash down directly onto the player, leaving behind valuable custom ore.
@@ -31,12 +44,24 @@ Explore new horizons and dimensions to find exclusive resources necessary for pr
 
 ---
 
-## FAQ
+# FAQ
 
 Q: Can I use this mod in my own modpack?
 
 A: This mod was specifically tailored for **Sacred Logistics**. While you are free to include it in any modpack, please note that some mechanics heavily rely on the presence of *Artifacts*, *Relics*, and *Ad Astra* to function properly.
 
-## Download
+<div align="center">
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sacred-logistics-tweaks) | [Modrinth](https://modrinth.com/mod/sacred-logistics-tweaks)
+# Download
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sacred-logistics-tweaks) <br/>
+[Modrinth](https://modrinth.com/mod/sacred-logistics-tweaks)
+
+# Contacts & Supports
+[Telegram](https://t.me/BMProjects) <br/>
+[Discord](https://discord.gg/9GWKBVw3Ty) <br/>
+[Patreon](https://www.patreon.com/c/BMProjectsMinecraft) <br/>
+[Boosty](https://boosty.to/barmaxx)
+
+<img width="400" height="400" alt="L2" src="https://github.com/user-attachments/assets/e86dd85c-d7f0-4283-8a8a-1e29091fe537" />
+
+</div>
