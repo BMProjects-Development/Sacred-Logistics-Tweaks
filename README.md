@@ -36,3 +36,7 @@ Explore new horizons and dimensions to find exclusive resources necessary for pr
 Q: Can I use this mod in my own modpack?
 
 A: This mod was specifically tailored for **Sacred Logistics**. While you are free to include it in any modpack, please note that some mechanics heavily rely on the presence of *Artifacts*, *Relics*, and *Ad Astra* to function properly.
+
+## Download
+
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sacred-logistics-tweaks) | [Modrinth](https://modrinth.com/mod/sacred-logistics-tweaks)
